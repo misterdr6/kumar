@@ -1,0 +1,97 @@
+.cover_pic{
+background-image: url(data:image/jpeg;base64,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);
+height: 900px;
+background-repeat: no-repeat;
+background-size: cover;
+margin: 0;
+padding: 0;
+
+}
+html,body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+.footer{
+    margin-left: 400px;
+    margin-top: 100px;
+    padding: 0;
+    
+}
+.button{
+    width: 150px;
+    height: 40px;
+    background: white;
+    font-weight: 600;
+    border-radius: 20 px;
+    border: 1px solid green;
+    color:black;
+}
+.socialbutton{
+    width: 200px;
+    height: 30px;
+    font-weight: 600;
+    border-radius: 20 px;
+    color: black;
+
+}
+nav {
+    text-align: right;
+    margin-right: 20px;
+}
+nav button{
+    margin: 20px;
+    margin-left: 0;
+}
+.login{
+    margin-left: 640px;
+    margin-top: 50px;
+}
+.email{
+    margin-left: 600px;
+    margin-top: 50px;
+}
+.password{
+    margin-left: 600px;
+    margin-top: 50px;
+
+}
+.submit{
+     margin-left: 600px;
+    margin-top: 50px;
+   
+}
+.need{
+    margin-left: 600px;
+    margin-top: 50px;
+}
+.media{
+    margin-left: 450px;
+}
+#one{
+    
+    font-size: 30px;
+    color:black;
+}
+#two{
+    font-size: 30px;
+    margin-left: 20px;
+    color: black;
+
+}
+#three{
+    font-size: 20px;
+    margin-left: 20px;
+    color: black;
+}
+#five{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+#seven{
+    font-size: 30px;
+}
+.footer a{
+    display: inline-block;
+    margin-left: 190px;
+}
